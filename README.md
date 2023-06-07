@@ -30,3 +30,4 @@ Durante a análise, são explorados diversos aspectos dos acidentes de trânsito
 Principais resultados da análise: 
 
 Alguns dos principais resultados podem incluir a identificação dos locais com maior incidência de acidentes, os horários em que ocorrem mais acidentes, os fatores de risco mais comuns, como o excesso de velocidade ou o consumo de álcool, as características dos envolvidos nos acidentes (por exemplo, se são motoristas, pedestres ou ciclistas), e as consequências dos acidentes em termos de lesões e fatalidades. Esses resultados podem ser utilizados para embasar a implementação de medidas preventivas, como melhorias na infraestrutura viária, campanhas de conscientização e ações de fiscalização mais direcionadas.
+
