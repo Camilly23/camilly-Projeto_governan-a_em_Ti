@@ -8,4 +8,4 @@
 ## Integrante
 
 
-*   Camilly Dutra Rodrigues*
+*   Camilly Dutra Rodrigues.
