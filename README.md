@@ -3,7 +3,5 @@
 *   Universidade nove de julho
 *   Ciência de Dados
 
-**Integrantes**
-*   Camilly Dutra Rodrigues 
-
+#  **Integrant**
 
